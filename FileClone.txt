@@ -1,0 +1,5 @@
+Se copio rpositorio de Git Hub y ahora el repositorio 
+está local
+Git clone
+ahora pull y push para conectar con remoto
+
